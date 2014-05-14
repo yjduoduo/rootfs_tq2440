@@ -1,0 +1,5 @@
+#!/bin/sh
+ifconfig eth0 172.16.1.111
+
+mount -a
+
